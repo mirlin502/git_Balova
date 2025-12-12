@@ -1,0 +1,19 @@
+# Application logs - should not be stored in repository
+*.log
+
+# DLL libraries - should be installed via package manager
+*.dll
+
+# System temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sup
+*.swo 
